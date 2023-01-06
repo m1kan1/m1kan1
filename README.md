@@ -1,16 +1,14 @@
-### Hi there 👋
+# ポートフォリオ　👋
 
-<!--
-**m1kan1/m1kan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coffee Note Frontend
+Coffee Note Frontendは、Nuxt.jsを使用したWebアプリです。GitHub Actionsを使用して、デプロイの自動化を行なっています。
 
-Here are some ideas to get you started:
+使用技術: Nuxt.js, Vue.js, Vuetify, GitHub Actions
+リポジトリ: https://github.com/m1kan1/coffee-note-frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coffee Note backend
+Coffee Note backendは、serverlessFrameworkを使用したWebサーバーです。Auth0を使用した認証を実装しています。
+pytestを使ったAPIのテストや、GitHub Actionsを使用したデプロイの自動化を行なっています。
+
+使用技術: AWS Serverless Framework, Auth0, GitHub Actions, Python, Docker
+リポジトリ: https://github.com/m1kan1/coffee-note-backend
